@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+huggingface_hub
+pypdf
+faiss-cpu
+pfdminer.six
+sentence_transformers
