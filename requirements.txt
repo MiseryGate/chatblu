@@ -4,6 +4,6 @@ streamlit
 huggingface_hub
 pypdf
 faiss-cpu
-pfdminer.six
+pdfminer.six
 sentence_transformers
 dotenv
