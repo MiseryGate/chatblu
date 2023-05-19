@@ -6,3 +6,4 @@ pypdf
 faiss-cpu
 pfdminer.six
 sentence_transformers
+dotenv
