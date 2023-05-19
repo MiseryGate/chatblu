@@ -1,6 +1,6 @@
 langchain
 openai
-streamlit
+streamlit~=1.22.0
 huggingface_hub
 pypdf
 faiss-cpu
